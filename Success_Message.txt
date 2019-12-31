@@ -1,8 +1,6 @@
 # message
 # 안녕하세요, 단테입니다 ^~^
+# Github
 
 # Contact
 # E-mail : deugkuchang@naver.com
-
-# 추가된 메시지 입니다.
-
